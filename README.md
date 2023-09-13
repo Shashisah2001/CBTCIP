@@ -1,2 +1,2 @@
-# Netflix_clone
+# CBTCIP
 This is my first repo
